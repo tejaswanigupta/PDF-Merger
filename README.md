@@ -1,0 +1,1 @@
+Created a pdf merger Mini project using pypdf library.
